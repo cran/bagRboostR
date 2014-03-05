@@ -1,11 +1,14 @@
-ef2652721e02f9fbde60e1e6e985ef4f *DESCRIPTION
+0370da559785373a838254ff2302ba18 *DESCRIPTION
+d2ecf97a0018374328534b08899ba4d3 *LICENSE
 873a7efe081bd42933526ae17ed451a8 *NAMESPACE
+b35f870a79dc618a5fba4b9bfe139b0e *NEWS
 cdf412ef8c0b41f9bbacc03ea1c31392 *R/bagging.R
 4c17f70329227ac229281f962cc9aa6c *R/helpers.R
 85d688a0e12f23e2c4cdb604870be670 *R/samme.R
-9d12f4e0ea4f5b61feb53c3f0fd4127c *README.md
+10a48e87358e46be1a3df00724b6cc8d *README.md
 502d3f110a9619cc98594e7a1dec2a35 *inst/tests/test_bagging.R
 faf0e2db1166a2ceb1972dbf15b61e3c *inst/tests/test_helpers.R
 45d33638df006ecd2aee55bf35de5528 *inst/tests/test_samme.R
 612f73922d12e75a1e7cebf41f8b217e *man/bagging.Rd
 72b639185d08fd0416e34a8c805dfb5e *man/samme.Rd
+90afc09666fc73c237d1a8799b9d7e6b *tests/test-all.R
